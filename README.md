@@ -45,7 +45,7 @@ I'm always learning new technologies to stay ahead and build impactful solutions
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
   
   <!-- SQL Server Custom Image -->
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/microsoftsqlserver_plain_logo_icon_146389.png" width="40" title="SQL Server"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
