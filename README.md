@@ -14,17 +14,17 @@ I'm always learning new technologies to stay ahead and build impactful solutions
 
 ### 🚀 What I’m working on
 
-- 🔧 Improving my backend with `.NET Core`, `EF`, and RESTful APIs  
-- 📦 Learning scalable architectures, design patterns, and DevOps  
-- 🤝 Looking to collaborate on real, meaningful projects  
+ 🔧 Improving my backend with `.NET Core`, `EF`, and RESTful APIs  
+ 📦 Learning scalable architectures, design patterns, and DevOps  
+ 🤝 Looking to collaborate on real, meaningful projects  
 
 ---
 
 ### 📫 How to Reach Me
 
  📧 Email: [elsadanyahmed341@gmail.com](mailto:elsadanyahmed341@gmail.com)  
-- 🔗 GitHub: [a7medelsadany](https://github.com/a7medelsadany)  
-- 💼 LinkedIn: [Ahmed Elsadany](https://www.linkedin.com/in/ahmed-abd-alaziz-7b099122a)
+ 🔗 GitHub: [a7medelsadany](https://github.com/a7medelsadany)  
+ 💼 LinkedIn: [Ahmed Elsadany](https://www.linkedin.com/in/ahmed-abd-alaziz-7b099122a)
 
 ---
 
