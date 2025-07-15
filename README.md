@@ -12,9 +12,9 @@ I'm constantly learning and upgrading my skills to stay up-to-date with the late
 
 ### 🚀 What I'm working on
 
-- 🌐 Improving backend skills with `.NET Core` and `Web APIs`
-- 📈 Learning about scalable architectures, design patterns, and DevOps basics
-- 🤝 Looking forward to collaborating on meaningful projects
+ 🌐 Improving backend skills with `.NET Core` and `Web APIs`
+ 📈 Learning about scalable architectures, design patterns, and DevOps basics
+ 🤝 Looking forward to collaborating on meaningful projects
 
 ---
 
